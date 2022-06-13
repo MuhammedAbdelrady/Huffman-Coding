@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615711550 source:d:\courses\visual studio\huffman coding\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<unordered_map>
+	<queue>
+
